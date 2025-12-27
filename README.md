@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Namra 👋<br>A developer who enjoys turning complex problems into simple, scalable solutions.<br>I work across C++, Data Structures & Algorithms, and Full-Stack development, and I’m currently exploring AI-driven systems and backend architecture.<br><br>I believe in writing clean code, understanding systems deeply, and learning something new every day.
+Hi, I’m Namra 👋<br>I build scalable systems and enjoy solving complex problems with clean, efficient code.<br>My work spans C++, Data Structures & Algorithms, and Full-Stack development, with a growing focus on backend architecture, system design, and AI-driven applications.<br>“Strong systems are built by those who care about the details.”
 
 
 ## 🌐 Socials:
